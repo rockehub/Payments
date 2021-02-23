@@ -1,0 +1,8 @@
+vendor
+tests
+phpcs.xml
+phpunit.xml
+.editorconfig
+.htaccess
+example
+.idea
