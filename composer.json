@@ -4,7 +4,7 @@
     "type": "library",
     "require": {
         "guzzlehttp/guzzle": "^6.2",
-        "spatie/array-to-xml": "^2.16",
+        "spatie/array-to-xml": "^2.15",
       "ext-curl": "*",
       "ext-simplexml": "*",
       "ext-json": "*",
